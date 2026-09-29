@@ -1,0 +1,5 @@
+{
+    "server_cluster": "aks-cluster-01",
+    "status": "completed",
+    "migrated_workloads": 45
+}

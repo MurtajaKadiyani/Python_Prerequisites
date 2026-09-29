@@ -1,0 +1,3 @@
+repository_name=docker-prod-local
+retention_days=90
+scan_on_push=true
