@@ -3,3 +3,7 @@ __pycache__/
 .venv/
 venv/
 *.egg-info/
+*.db
+*.log
+wine.csv
+df_excel
