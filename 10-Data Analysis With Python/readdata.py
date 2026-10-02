@@ -24,7 +24,7 @@ print(df[0])
 url="https://en.wikipedia.org/wiki/Mobile_country_code"
 pd.read_html(url,match="Country",header=0, storage_options=headers)[0]
 
-df_excel = pd.read_excel('../data.xlsx')
+df_excel = pd.read_excel('data.xlsx')
 df_excel.to_pickle('df_excel')
 pd.read_pickle('df_excel')
 
